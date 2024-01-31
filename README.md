@@ -2,3 +2,5 @@
 
 This is my first changes.And after that I will pull request.
 I changed something in Github
+
+I changed features with second step through Vscode
